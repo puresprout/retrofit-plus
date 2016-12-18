@@ -14,13 +14,13 @@
         android:id="@+id/callButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Call Greeting API" />
+        android:text="@string/call_api" />
 
     <Button
         android:id="@+id/errorButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Called But Get Error Message" />
+        android:text="@string/get_error_message" />
 
     <TextView
         android:id="@+id/greetingTextView"

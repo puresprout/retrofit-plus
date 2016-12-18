@@ -7,5 +7,5 @@ ErrorPolicyCallback - retrofit common error handling for restful API
 
 ## Gradle
 ```
-compile 'com.purestation:retrofitplus:0.0.1'
+compile 'com.purestation:retrofit-plus:0.0.1'
 ```
