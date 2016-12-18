@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Retrofit Plus Library</string>
+
+    <string name="alert">Alert</string>
+    <string name="error">Error</string>
+    <string name="unknown_host_exception">Can\'t find server host. Please confirm internet connection.</string>
+    <string name="io_exception">Server doesn\'t respond. Please retry after a while.</string>
+    <string name="default_exception">It has occurred a temporary failure. Please retry after a while.</string>
+</resources>

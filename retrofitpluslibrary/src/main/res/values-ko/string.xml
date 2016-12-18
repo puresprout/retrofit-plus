@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Retrofit Plus Library</string>
+
+    <string name="alert">알림</string>
+    <string name="error">오류</string>
+    <string name="unknown_host_exception">서버 호스트를 찾지 못했습니다. 인터넷 연결을 확인하세요.</string>
+    <string name="io_exception">서버가 응답이 없습니다. 잠시 후 다시 시도하세요.</string>
+    <string name="default_exception">일시적인 오류가 발생했습니다. 잠시 후 다시 시도하세요.</string>
+</resources>
