@@ -20,6 +20,16 @@ api.getGreeting().enqueue(new ErrorPolicyCallback<GreetingResponse>(
 });
 ```
 
+## ViewType of ErrorPolicy
+```
+public enum ViewType {
+    TOAST,
+    SNACKBAR,
+    DIALOG,
+    INVIEW
+}
+```
+
 ## Gradle
 ```
 compile 'com.purestation:retrofit-plus:0.0.1'
